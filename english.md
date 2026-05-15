@@ -59,13 +59,13 @@
 
 **Суть:** регулярные действия, факты, расписания.
 
-**Структура:** `S + V(s/es)`
-
 **Маркеры:** always, usually, often, sometimes, never, every day
 
-**Примеры:**
-- She *works* in a hospital.
-- The train *leaves* at 9.
+| | Структура | Пример |
+|---|---|---|
+| + | `S + V(s/es)` | She *works* in a hospital. |
+| − | `S + don't/doesn't + V` | She *doesn't work* on weekends. |
+| ? | `Do/Does + S + V?` | *Does* she *work* here? |
 
 ---
 
@@ -73,13 +73,13 @@
 
 **Суть:** действие происходит прямо сейчас или временная ситуация; также для запланированного будущего.
 
-**Структура:** `S + am/is/are + V-ing`
-
 **Маркеры:** now, at the moment, these days, currently, tonight (будущее)
 
-**Примеры:**
-- I *am studying* English right now.
-- We *are meeting* the client tomorrow.
+| | Структура | Пример |
+|---|---|---|
+| + | `S + am/is/are + V-ing` | I *am studying* English right now. |
+| − | `S + am/is/are + not + V-ing` | I *am not watching* TV. |
+| ? | `Am/Is/Are + S + V-ing?` | *Are* you *working* today? |
 
 ---
 
@@ -87,13 +87,13 @@
 
 **Суть:** действие в прошлом, связанное с настоящим (результат, опыт, незавершённость).
 
-**Структура:** `S + have/has + V3`
-
 **Маркеры:** just, already, yet, ever, never, recently, since, for, so far
 
-**Примеры:**
-- I *have just finished* the report.
-- She *has never been* to Japan.
+| | Структура | Пример |
+|---|---|---|
+| + | `S + have/has + V3` | She *has finished* the report. |
+| − | `S + haven't/hasn't + V3` | She *hasn't called* yet. |
+| ? | `Have/Has + S + V3?` | *Have* you *ever been* to Japan? |
 
 ---
 
@@ -101,13 +101,13 @@
 
 **Суть:** действие началось в прошлом и продолжается сейчас (акцент на длительности).
 
-**Структура:** `S + have/has been + V-ing`
-
 **Маркеры:** for, since, all day, how long
 
-**Примеры:**
-- He *has been working* here for 5 years.
-- I *have been waiting* since 3 pm.
+| | Структура | Пример |
+|---|---|---|
+| + | `S + have/has been + V-ing` | He *has been working* here for 5 years. |
+| − | `S + haven't/hasn't been + V-ing` | She *hasn't been sleeping* well lately. |
+| ? | `Have/Has + S + been + V-ing?` | *How long have* you *been waiting*? |
 
 > **Present Perfect vs PP Continuous:**
 > - *I've written 3 emails.* (результат — сколько)
@@ -119,13 +119,13 @@
 
 **Суть:** завершённое действие в прошлом (время указано или подразумевается).
 
-**Структура:** `S + V2 (regular: +ed)`
-
 **Маркеры:** yesterday, last week, ago, in 2010, when
 
-**Примеры:**
-- They *moved* to London in 2015.
-- I *didn't see* him yesterday.
+| | Структура | Пример |
+|---|---|---|
+| + | `S + V2` | They *moved* to London in 2015. |
+| − | `S + didn't + V` | I *didn't see* him yesterday. |
+| ? | `Did + S + V?` | *Did* you *call* her? |
 
 ---
 
@@ -133,11 +133,13 @@
 
 **Суть:** действие было в процессе в определённый момент прошлого; фон для другого события.
 
-**Структура:** `S + was/were + V-ing`
+| | Структура | Пример |
+|---|---|---|
+| + | `S + was/were + V-ing` | I *was watching* TV at 8 pm. |
+| − | `S + wasn't/weren't + V-ing` | I *wasn't sleeping* when you called. |
+| ? | `Was/Were + S + V-ing?` | *Were* you *working* late yesterday? |
 
-**Примеры:**
-- At 8 pm I *was watching* TV.
-- She *was cooking* when the phone rang. (фон + событие)
+**Фон + событие:** She *was cooking* when the phone *rang*.
 
 ---
 
@@ -145,13 +147,13 @@
 
 **Суть:** действие произошло до другого действия в прошлом («прошлое в прошлом»).
 
-**Структура:** `S + had + V3`
-
 **Маркеры:** already, just, before, after, by the time, when
 
-**Примеры:**
-- When I arrived, she *had already left*.
-- He explained what *had happened*.
+| | Структура | Пример |
+|---|---|---|
+| + | `S + had + V3` | She *had already left* when I arrived. |
+| − | `S + hadn't + V3` | He *hadn't eaten* anything all day. |
+| ? | `Had + S + V3?` | *Had* you *met* him before? |
 
 ---
 
@@ -159,11 +161,11 @@
 
 **Суть:** действие длилось до определённого момента в прошлом (акцент на длительности).
 
-**Структура:** `S + had been + V-ing`
-
-**Примеры:**
-- I *had been studying* for 3 hours before the exam.
-- She was tired because she *had been running*.
+| | Структура | Пример |
+|---|---|---|
+| + | `S + had been + V-ing` | I *had been studying* for 3 hours before the exam. |
+| − | `S + hadn't been + V-ing` | She *hadn't been sleeping* well before the trip. |
+| ? | `Had + S + been + V-ing?` | *Had* he *been waiting* long? |
 
 ---
 
@@ -171,11 +173,11 @@
 
 **Суть трёх форм:**
 
-| Форма | Когда использовать | Пример |
-|---|---|---|
-| `will + V` | спонтанное решение, предсказание, обещание | I *will help* you. |
-| `be going to + V` | план/намерение, очевидное будущее | I *am going to visit* Paris. |
-| Present Continuous | договорённость с другим человеком | We *are having* dinner at 7. |
+| Форма | Когда использовать | + | − | ? |
+|---|---|---|---|---|
+| `will` | спонтанное решение, предсказание, обещание | I *will help* you. | I *won't tell* anyone. | *Will* you *come*? |
+| `be going to` | план/намерение, очевидное будущее | I *am going to visit* Paris. | I *am not going to stay*. | *Are* you *going to call* him? |
+| Present Continuous | договорённость с другим человеком | We *are having* dinner at 7. | We *aren't meeting* on Monday. | *Are* you *working* tomorrow? |
 
 ---
 
@@ -183,13 +185,13 @@
 
 **Суть:** действие завершится к определённому моменту в будущем.
 
-**Структура:** `S + will have + V3`
-
 **Маркеры:** by tomorrow, by 5 pm, by the time
 
-**Примеры:**
-- By Friday I *will have finished* the project.
-- She *will have left* by the time you arrive.
+| | Структура | Пример |
+|---|---|---|
+| + | `S + will have + V3` | By Friday I *will have finished* the project. |
+| − | `S + won't have + V3` | I *won't have finished* by Monday. |
+| ? | `Will + S + have + V3?` | *Will* she *have left* by the time we arrive? |
 
 ---
 
