@@ -15,43 +15,47 @@
 10. [Future Perfect](#future-perfect)
 
 ### Структура предложений
-11. [Question Formation](#question-formation)
-12. [Time Clauses](#time-clauses)
+11. [Word Order (Порядок слов)](#word-order)
+12. [Question Formation](#question-formation)
+13. [Time Clauses](#time-clauses)
 
 ### Прилагательные и наречия
-13. [Comparatives & Superlatives](#comparatives--superlatives)
-14. [-ed / -ing Adjectives](#ed--ing-adjectives)
-15. [too / not enough / so / such](#too--not-enough)
+14. [Comparatives & Superlatives](#comparatives--superlatives)
+15. [-ed / -ing Adjectives](#ed--ing-adjectives)
+16. [too / not enough / so / such](#too--not-enough)
 
 ### Существительные и артикли
-16. [Articles](#articles)
-17. [Quantifiers (Countable / Uncountable)](#quantifiers)
+17. [Articles](#articles)
+18. [Quantifiers (Countable / Uncountable)](#quantifiers)
 
 ### Модальные глаголы
-18. [Modal Verbs](#modal-verbs)
-19. [Modal + Perfect Infinitive](#modal-perfect)
-20. [Supposed to](#supposed-to)
+19. [Modal Verbs](#modal-verbs)
+20. [Modal + Perfect Infinitive](#modal-perfect)
+21. [Supposed to](#supposed-to)
 
 ### Условные и желания
-21. [Conditionals (0, 1, 2, 3, Mixed)](#conditionals)
-22. [Wish / If only](#wish)
+22. [Conditionals (0, 1, 2, 3, Mixed)](#conditionals)
+23. [Wish / If only](#wish)
 
 ### Косвенная речь и залог
-23. [Reported Speech](#reported-speech)
-24. [Passive Voice](#passive-voice)
+24. [Sequence of Tenses (Согласование времён)](#sequence-of-tenses)
+25. [Reported Speech](#reported-speech)
+26. [Passive Voice](#passive-voice)
 
 ### Глагольные конструкции
-25. [Used to / Would / Be used to / Get used to](#used-to)
-26. [Gerund & Infinitive](#gerund-infinitive)
+27. [Used to / Would / Be used to / Get used to](#used-to)
+28. [Gerund & Infinitive](#gerund-infinitive)
 
 ### Сложные предложения
-27. [Relative Clauses](#relative-clauses)
-28. [Inversion](#inversion)
-29. [Participle Clauses](#participle-clauses)
-30. [Linking Words](#linking-words)
+29. [Relative Clauses](#relative-clauses)
+30. [Inversion](#inversion)
+31. [Participle Clauses](#participle-clauses)
+32. [Linking Words](#linking-words)
 
 ### Лексика
-31. [Phrasal Verbs (Top 30)](#phrasal-verbs)
+33. [Collocations: do / make / get / have / take](#collocations)
+34. [Idioms & Fixed Expressions](#idioms)
+35. [Phrasal Verbs (по подгруппам)](#phrasal-verbs)
 
 ---
 
@@ -192,6 +196,37 @@
 | + | `S + will have + V3` | By Friday I *will have finished* the project. |
 | − | `S + won't have + V3` | I *won't have finished* by Monday. |
 | ? | `Will + S + have + V3?` | *Will* she *have left* by the time we arrive? |
+
+---
+
+## Word Order
+
+**Суть:** в английском порядок слов фиксированный — он несёт смысл (нет падежей). Базовая схема:
+
+`Subject → Verb → Object` (SVO)
+- *The cat (S) caught (V) a mouse (O).*
+
+### Обстоятельства: Manner → Place → Time (как → где → когда)
+- She *sang* **beautifully** (manner) **at the concert** (place) **last night** (time).
+- We *travelled* **by train** (how) **to Rome** (where) **in May** (when).
+
+> Место **всегда** перед временем: *I'll meet you **at the office** (place) **tomorrow** (time).*
+
+### Наречия частоты (always, usually, often, sometimes, never)
+| Правило | Пример |
+|---|---|
+| **перед** смысловым глаголом | She *always* **drinks** coffee. |
+| **после** глагола to be | He *is* **always** late. |
+| **между** вспомогательным и смысловым | I *have* **never** *been* there. |
+
+### Порядок прилагательных (Royal Order)
+`мнение → размер → возраст → форма → цвет → происхождение → материал → назначение + сущ.`
+- *a lovely* (мнение) *small* (размер) *old* (возраст) *round* (форма) *brown* (цвет) *Italian* (происх.) *wooden* (материал) *table*
+- На практике: *a beautiful big old house* (не ~~old big beautiful~~)
+
+### Что нельзя
+- Подлежащее не опускается: *It is raining.* (не ~~Is raining~~)
+- Между глаголом и дополнением ничего не вставляют: *I like **very much** coffee* ❌ → *I like coffee **very much***. ✅
 
 ---
 
@@ -475,6 +510,28 @@ advice, information, news, furniture, luggage, equipment, homework, research, pr
 
 ---
 
+## Sequence of Tenses
+
+**Суть:** если глагол в главном предложении стоит в прошедшем времени, то в придаточном время «сдвигается на шаг назад» (backshift). Это основа косвенной речи, но работает шире — после `said, thought, knew, realised, was sure, didn't know` и т.п.
+
+### Сдвиг назад:
+| Главное в Past → придаточное сдвигается | Пример |
+|---|---|
+| Present Simple → Past Simple | I knew she **lived** here. |
+| Present Continuous → Past Continuous | He said he **was working**. |
+| Present Perfect → Past Perfect | She told me she **had finished**. |
+| Past Simple → Past Perfect | I thought you **had left**. |
+| will → would / can → could / may → might | I hoped it **would** work. |
+
+### Когда сдвига НЕ происходит:
+- Главный глагол в **настоящем/будущем**: *She **says** she **is** tired.*
+- **Общеизвестная истина / факт**, верный и сейчас: *He said the Earth **is** round.* (можно оставить Present)
+- **Сразу после события**, когда ситуация ещё актуальна: *She told me she **is** pregnant.*
+
+> Это та же логика, что и backshift в [Reported Speech](#reported-speech) ниже.
+
+---
+
 ## Reported Speech
 
 **Суть:** передаём чужие слова косвенно — меняются времена, местоимения, указатели места/времени.
@@ -668,37 +725,173 @@ want, hope, decide, plan, agree, refuse, offer, manage, fail, promise, seem, app
 
 ---
 
+## Collocations
+
+**Суть:** устойчивые сочетания «глагол + существительное». Главная ловушка — **do vs make**. Грубое правило: **do** — про действие/работу/процесс, **make** — про создание/результат. Остальное запоминается.
+
+### do (выполнять действие, работу)
+do homework · do the dishes · do the shopping · do the housework · do exercise · do business · do research · do a favour · do your best · do harm · do damage · do nothing
+- Can you *do me a favour*? · She *did her best*.
+
+### make (создавать, производить результат)
+make a decision · make a mistake · make money · make progress · make an effort · make a difference · make a mess · make noise · make friends · make a phone call · make sure · make a plan · make breakfast/dinner · make an appointment
+- *Make a decision* and don't *make a mess*.
+
+### get (становиться / получать / добираться)
+get ready · get dressed · get married · get divorced · get lost · get better/worse · get angry · get tired · get a job · get home · get a chance · get the joke
+- It's *getting dark*. · *Get ready*, we're leaving.
+
+### have (испытывать / проводить)
+have breakfast/lunch · have a shower · have a rest · have a break · have a look · have fun · have a good time · have a party · have a baby · have a problem · have an argument
+- Let's *have a break* and *have a look* later.
+
+### take (брать / выполнять / занимать)
+take a photo · take a break · take a seat · take care (of) · take time · take a risk · take notes · take part (in) · take place · take a chance · take medicine · take a test
+- *Take a seat*. · The meeting *takes place* on Monday.
+
+---
+
+## Idioms
+
+**Суть:** значение не выводится из отдельных слов — учим целиком. Самые ходовые B1–B2:
+
+| Идиома | Значение | Пример |
+|---|---|---|
+| a piece of cake | проще простого | The test was *a piece of cake*. |
+| once in a blue moon | очень редко | We meet *once in a blue moon*. |
+| out of the blue | как снег на голову, внезапно | She called me *out of the blue*. |
+| break the ice | растопить лёд, разрядить обстановку | A joke can *break the ice*. |
+| under the weather | приболеть, неважно себя чувствовать | I'm feeling a bit *under the weather*. |
+| cost an arm and a leg | стоить целое состояние | That car *cost an arm and a leg*. |
+| hit the books | засесть за учёбу | I need to *hit the books* tonight. |
+| call it a day | закончить (на сегодня) | Let's *call it a day*. |
+| make up your mind | определиться, решиться | *Make up your mind* — yes or no? |
+| change your mind | передумать | She *changed her mind* at the last minute. |
+| get cold feet | струсить, передумать (от страха) | He *got cold feet* before the wedding. |
+| bite the bullet | стиснуть зубы, решиться на неприятное | I'll *bite the bullet* and apologise. |
+| pull someone's leg | разыгрывать, подшучивать | Relax, I'm just *pulling your leg*. |
+| a blessing in disguise | нет худа без добра | Losing that job was *a blessing in disguise*. |
+| on the same page | мыслить одинаково, быть в согласии | Let's make sure we're *on the same page*. |
+| be over the moon | быть на седьмом небе | She was *over the moon* about the news. |
+| keep an eye on | присматривать за | Can you *keep an eye on* my bag? |
+| speak of the devil | лёгок на помине | *Speak of the devil* — here he is! |
+| it's not rocket science | это несложно | Come on, *it's not rocket science*. |
+| the ball is in your court | твой ход, решать тебе | I've done my part — *the ball is in your court*. |
+
+---
+
 ## Phrasal Verbs
 
+**Суть:** глагол + частица меняют значение. Удобно учить группами вокруг базового глагола. Многие — **разделяемые**: *turn the TV **off*** = *turn **off** the TV*, но с местоимением только *turn **it** off*.
+
+### GET
 | Фразовый глагол | Значение | Пример |
 |---|---|---|
-| bring up | воспитывать; упоминать | She was brought up in Rome. |
-| call off | отменить | They called off the meeting. |
-| carry on | продолжать | Carry on working. |
-| come across | случайно найти/встретить | I came across an old photo. |
-| come up with | придумать | She came up with a great idea. |
-| cut down on | сократить потребление | I'm cutting down on sugar. |
-| deal with | справляться, заниматься | How do you deal with stress? |
-| figure out | понять, разобраться | I can't figure out this problem. |
-| get along (with) | ладить | Do you get along with your boss? |
-| get away with | избежать наказания | He got away with cheating. |
-| get over | оправиться, пережить | It took time to get over the loss. |
-| give up | бросить, сдаться | She gave up smoking. |
-| go through | пережить; просматривать | He went through a difficult time. |
-| keep up with | не отставать | It's hard to keep up with the news. |
-| let down | подвести | Don't let me down. |
-| look into | расследовать, изучить | We'll look into the problem. |
-| look up to | уважать | She looks up to her mentor. |
-| make up | придумать; мириться | He made up an excuse. / Let's make up. |
-| put off | откладывать | Stop putting off your homework. |
-| put up with | терпеть | I can't put up with this noise. |
-| run into | случайно встретить | I ran into an old friend. |
-| run out of | закончиться (запасы) | We ran out of milk. |
-| set up | организовать, основать | They set up a new company. |
-| take after | быть похожим (родители) | She takes after her mother. |
-| take off | взлетать; снимать; резко расти | The plane took off. / Take off your coat. |
-| take on | брать (работу/ответственность) | She took on too much work. |
-| turn down | отклонить; убавить | He turned down the offer. |
-| turn up | появиться; прибавить | He finally turned up at 10. |
-| work out | тренироваться; решиться | It all worked out in the end. |
-| write off | списывать; не принимать всерьёз | Don't write him off just yet. |
+| get up | вставать (с постели) | I *get up* at 7. |
+| get on (with) | ладить; садиться в транспорт | Do you *get on with* your boss? |
+| get off | выходить (из транспорта) | *Get off* at the next stop. |
+| get away with | избежать наказания | He *got away with* cheating. |
+| get over | оправиться, пережить | It took time to *get over* the loss. |
+| get by | сводить концы с концами | We *get by* on a small salary. |
+| get back | вернуться | When did you *get back*? |
+| get through | пройти через; дозвониться | I couldn't *get through* to her. |
+| get into | увлечься; попасть в | She *got into* photography. |
+
+### TAKE
+| Фразовый глагол | Значение | Пример |
+|---|---|---|
+| take off | взлетать; снимать (одежду) | The plane *took off*. / *Take off* your coat. |
+| take after | быть похожим (на родителя) | She *takes after* her mother. |
+| take on | брать (работу/ответственность) | He *took on* too much work. |
+| take up | заняться (хобби); занимать (место/время) | I *took up* yoga. |
+| take over | взять под контроль, перенять | She *took over* the company. |
+| take back | забрать назад (слова) | I *take back* what I said. |
+| take out | вынимать; пригласить | He *took* her *out* for dinner. |
+| take in | усвоить; обмануть | It's a lot to *take in*. |
+
+### GIVE
+| Фразовый глагол | Значение | Пример |
+|---|---|---|
+| give up | бросить, сдаться | She *gave up* smoking. |
+| give in | уступить, сдаться | Don't *give in* to pressure. |
+| give back | вернуть | *Give* me *back* my pen. |
+| give away | раздать; выдать (секрет) | He *gave away* the ending. |
+| give out | раздавать; иссякать | They *gave out* free samples. |
+| give off | испускать (запах/свет) | The flowers *give off* a nice smell. |
+
+### THINK
+| Фразовый глагол | Значение | Пример |
+|---|---|---|
+| think about / of | думать о | I'm *thinking about* moving. |
+| think over | обдумать | *Think* it *over* and tell me. |
+| think through | продумать до конца | We need to *think* this *through*. |
+| think up | придумать | He *thought up* a clever excuse. |
+| think back (to) | вспоминать (о прошлом) | *Think back* to your childhood. |
+
+### LOOK
+| Фразовый глагол | Значение | Пример |
+|---|---|---|
+| look after | заботиться | She *looks after* the kids. |
+| look for | искать | I'm *looking for* my keys. |
+| look forward to | с нетерпением ждать | I *look forward to* seeing you. |
+| look into | расследовать, изучить | We'll *look into* the problem. |
+| look up | искать (в словаре/справочнике) | *Look* it *up* online. |
+| look up to | уважать | She *looks up to* her mentor. |
+| look down on | презирать, смотреть свысока | Don't *look down on* others. |
+| look out | остерегаться | *Look out* — a car! |
+
+### PUT
+| Фразовый глагол | Значение | Пример |
+|---|---|---|
+| put on | надевать; включать | *Put on* your coat. / *Put on* the light. |
+| put off | откладывать; отбивать желание | Stop *putting off* your homework. |
+| put up with | терпеть | I can't *put up with* this noise. |
+| put out | потушить | Firefighters *put out* the fire. |
+| put away | убрать на место | *Put away* your toys. |
+| put up | установить; разместить (гостя) | They *put* us *up* for the night. |
+
+### COME / GO
+| Фразовый глагол | Значение | Пример |
+|---|---|---|
+| come across | наткнуться, случайно найти | I *came across* an old photo. |
+| come up with | придумать | She *came up with* a great idea. |
+| come back | вернуться | *Come back* soon. |
+| come down with | заболеть (чем-то) | I'm *coming down with* a cold. |
+| go on | продолжать; происходить | What's *going on*? |
+| go off | сработать (будильник); испортиться (еда) | The alarm *went off*. / The milk *went off*. |
+| go through | пережить; просмотреть | He *went through* a hard time. |
+| go over | повторить, просмотреть | Let's *go over* the plan. |
+
+### TURN
+| Фразовый глагол | Значение | Пример |
+|---|---|---|
+| turn on / off | включать / выключать | *Turn on* the TV. |
+| turn up | появиться; прибавить (громкость) | He finally *turned up* at 10. |
+| turn down | отклонить; убавить | He *turned down* the offer. |
+| turn into | превратиться в | The frog *turned into* a prince. |
+| turn out | оказаться (в итоге) | It *turned out* to be true. |
+
+### Прочие частотные
+| Фразовый глагол | Значение | Пример |
+|---|---|---|
+| find out | узнать, выяснить | I *found out* the truth. |
+| bring up | воспитывать; упоминать | She was *brought up* in Rome. |
+| carry on | продолжать | *Carry on* working. |
+| call off | отменить | They *called off* the meeting. |
+| deal with | справляться, заниматься | How do you *deal with* stress? |
+| figure out | понять, разобраться | I can't *figure out* this problem. |
+| cut down on | сократить потребление | I'm *cutting down on* sugar. |
+| run into | случайно встретить | I *ran into* an old friend. |
+| run out of | закончиться (о запасах) | We *ran out of* milk. |
+| set up | организовать, основать | They *set up* a new company. |
+| work out | тренироваться; решиться | It all *worked out* in the end. |
+| break down | сломаться; не выдержать | The car *broke down*. |
+| break up | расстаться | They *broke up* last year. |
+| fill in / out | заполнить (бланк) | *Fill in* the form. |
+| hand in | сдать (работу) | *Hand in* your essays. |
+| hang out | тусоваться, проводить время | We *hang out* on weekends. |
+| end up | в итоге оказаться | We *ended up* staying home. |
+| show up | объявиться, прийти | He didn't *show up*. |
+| sort out | разобраться, уладить | I'll *sort out* the details. |
+| keep up with | не отставать | It's hard to *keep up with* the news. |
+| let down | подвести | Don't *let* me *down*. |
